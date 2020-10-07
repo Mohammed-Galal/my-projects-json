@@ -1,0 +1,22 @@
+[
+  {
+    "name": "project-1",
+    "link": "https://mohammed-galal.github.io/project-1/",
+    "img": "https://github.com/Mohammed-Galal/project-1/blob/master/img/bg-masthead.jpg?raw=true"
+  },
+  {
+    "name": "project-2",
+    "link": "https://mohammed-galal.github.io/project-2/",
+    "img": "https://github.com/Mohammed-Galal/project-2/blob/master/img/header-bg.jpg?raw=true"
+  },
+  {
+    "name": "project-3",
+    "link": "https://mohammed-galal.github.io/project-3/",
+    "img": "https://github.com/Mohammed-Galal/project-3/blob/master/img/bg-masthead.jpg?raw=true"
+  },
+  {
+    "name": "project-4 (with React Framework)",
+    "link": "https://okria.netlify.app/",
+    "img": "https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png"
+  }
+]
